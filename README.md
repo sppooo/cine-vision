@@ -1,4 +1,4 @@
-# timepass
+# FLUTTER PROJECT
 
 A new Flutter project.
 
